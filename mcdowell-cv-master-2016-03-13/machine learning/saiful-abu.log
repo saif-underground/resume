@@ -1,4 +1,4 @@
-This is LuaTeX, Version beta-0.80.0 (MiKTeX 2.9) (rev 5238)  (format=lualatex 2016.3.13)  28 JUN 2016 22:32
+This is LuaTeX, Version beta-0.80.0 (MiKTeX 2.9) (rev 5238)  (format=lualatex 2016.3.13)  29 JUN 2016 22:49
  restricted \write18 enabled.
 **saiful-abu.tex
 (./saiful-abu.tex
@@ -210,7 +210,7 @@ Inserting `luaotfload.aux.set_capheight' at position 3 in `luaotfload.patch_font
 '.
 Inserting `luaotfload.rewrite_fontname' at position 4 in `luaotfload.patch_font'
 .
-luaotfload | main : initialization completed in 0.457 seconds)
+luaotfload | main : initialization completed in 0.762 seconds)
 Lua module: fontspec 2013/05/20 2.3c Advanced font selection for LuaLaTeX.
 \l_fontspec_script_int=\count118
 \l_fontspec_language_int=\count119
@@ -906,13 +906,13 @@ Here is how much of LuaTeX's memory you used:
  125171,460012 words of node,token memory allocated
  380 words of node memory still in use:
     nodes
-   avail lists: 2:583,3:194,4:1461,5:111,6:3878,7:54,9:210,10:418,11:1
+   avail lists: 2:587,3:193,4:1475,5:107,6:3949,7:54,9:210,10:422,11:1
  22067 multiletter control sequences out of 65536+200000
  47 fonts using 8050843 bytes
  55i,15n,68p,775b,522s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Windows/Fonts/timesbd.ttf><C:/Windows/Fonts/timesbd.ttf><C:/Windows/Fonts/ti
 mes.ttf>
-Output written on saiful-abu.pdf (1 page, 106211 bytes).
+Output written on saiful-abu.pdf (1 page, 106648 bytes).
 
 PDF statistics: 27 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 131072)

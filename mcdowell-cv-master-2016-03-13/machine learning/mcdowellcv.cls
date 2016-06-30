@@ -90,7 +90,7 @@ Ligatures={TeX, NoCommon, NoDiscretionary}]{\mainfontface}
 %\def\aftersubsectionspace{4pt}
 
 \def\afterheaderspace{3pt}
-\def\beforesectionheaderspace{-3pt}
+\def\beforesectionheaderspace{-1pt}
 \def\sectionheadermargin{6pt}
 \def\aftersectionheaderspace{-4pt}
 \def\sectionheaderhrlueheight{0.5pt}
