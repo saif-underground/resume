@@ -1,0 +1,64 @@
+Saiful Abu 
+(915) 253-2866
+linkedin.com/in/saifulabu
+github.com/saifulAbu
+sabu@miners.utep.edu
+
+EDUCATION
+The University of Texas at El Paso (UTEP). M.S. in Computer Science (Expected July 2016). GPA: 3.85.
+Thesis Title: Electricity Demand Prediction in PowerTAC competition Using Machine Learning.
+
+Bangladesh University of Engineering and Technology. BS in Computer Science (Awarded April 2012).
+Graduate Coursework: Artificial Intelligence, Advanced Algorithms, Categorical Data Analysis, Human Computer
+Interaction, Graduate Research Method, Risk Analysis and Complex Decision Making.
+
+Undergraduate Coursework: Artificial Intelligence, Probability and Statistics, Machine Learning, Pattern
+Recognition, Data Structures, Algorithms, Database, Object Oriented Programming.
+Online Coursework: Descriptive and Inferential Statistics, Machine Learning, Artificial Intelligence, Artificial
+Intelligence for Robotics, Introduction to Psychology.
+
+EXPERIENCE
+Teaching Assistant CS Department, UTEP June 2015 - Present
+Managed an average of 60 students per semester for the lab section of the ”Data Structures and Algorithms”
+course. Contributed on increasing success rate of students than previous times by providing adequate office
+hours, writing blog articles, delivering lectures, and creating online discussion groups. Java.
+Research Assistant CS Department, UTEP August 2014 - Present
+
+Intelligent Agents and Strategic Reasoning Lab: Developed electricity demand prediction module using machine
+learning for a smart grid simulator called Power TAC. Prepared training and test data set from raw data.
+Applied clustering and different classifiers to group and to make prediction about the electricity demand. Reduced
+the prediction error from 31% to 13%. Java, Spring framework, Weka, Matlab.
+Interactive System Group: Improved performance of existing code. Designed experiment, developed a program
+to collect data and to visualize the outcome. Participated in explaining 25 prominent factors found that
+explains how actions affect prosody. C#, Java, Matlab, Shell Script.
+
+Software Engineer Mir Technologies, Bangladesh August 2013 – June 2014
+Designed a VoIP dialer app for iOS by analyzing an existing Android app. Improved voice quality of the app by
+using a proper audio framework. Collaborated with customers, server-side developers, and client-side developers
+of other platforms. Objective-C, C++.
+
+Software Engineer Hi-Tech Bangla, Bangladesh June 2012 – July 2013
+Developed a complex radar simulator for Bangladesh Air Force. Increased team performance by introducing
+version control, selecting proper software building platform, and initiating regular team meeting. Participated
+in gathering software requirements by collaborating with the customers. Improved code by introducing object
+oriented and design pattern principles. Presented updates to the customer at regular intervals. Java.
+
+Intern Software Engineer SDSL, Bangladesh December 2011 – June 2012
+Fixed rapid battery consumption problem of an Android device by optimizing an existing app. Java.
+
+PROJECTS
+• Enigma Simulator (2016). Developed world war 2 cryptographic device simulator. Hobby project. Java.
+• Healthy Work (2016). Developed a smartwatch app that helps prevent injuries caused by repetitive computer
+usage. Hobby project. C++, Pomodoro principle.
+• Automated Poker Playing Agent (2015). A successful poker playing agent (first place) for the tournament
+of Artificial Intelligence class. Java, Breadth First Search.
+• Phone Based Coffee Ordering System (2015). An automated system that receives the phone call of a customer,
+gives them a menu, takes order from them and notifies the vendor. PHP, MySQL, VXML.
+• Tomasulo’s Algorithm Simulator (2015). System architecture level instruction execution simulator. C.
+• Safe Browser (2011). Developed a browser that prohibits websites with adult content. Naive Bayes, C#.
+
+SKILLS
+• Java(Proficient); C++; C; Objective-C; Python; SQL.
+• Eclipse; Xcode; Visual Studio.
+• Windows; MacOS; Linux.
+• Weka, Matlab.
