@@ -1,14 +1,18 @@
-This is LuaTeX, Version beta-0.80.0 (MiKTeX 2.9) (rev 5238)  (format=lualatex 2016.3.13)  11 AUG 2016 17:28
+This is LuaTeX, Version beta-0.80.0 (MiKTeX 2.9 64-bit) (rev 5238)  (format=lualatex 2016.2.11)  28 FEB 2016 13:07
  restricted \write18 enabled.
-**saiful-abu.tex
-(./saiful-abu.tex
-LaTeX2e <2015/10/01> patch level 2
-Babel <3.9n> and hyphenation patterns for 69 languages loaded.
+**McDowell_CV_Template.tex
+(./McDowell_CV_Template.tex
+LaTeX2e <2016/02/01>
+Babel <3.9o> and hyphenation patterns for 1 language(s) loaded.
 (./mcdowellcv.cls
 Document Class: mcdowellcv 2015/12/15 v1.1.0 McDowell CV class
-(C:/Users/Saif/Desktop/software/miktex/tex/latex/base/article.cls
+
+("C:/Users/iasrluser/AppData/Local/Programs/MiKTeX 2.9/tex/latex/base/article.c
+ls"
 Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
-(C:/Users/Saif/Desktop/software/miktex/tex/latex/base/size11.clo
+
+("C:/Users/iasrluser/AppData/Local/Programs/MiKTeX 2.9/tex/latex/base/size11.cl
+o"
 File: size11.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 )
 \c@part=\count79
@@ -23,22 +27,27 @@ File: size11.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 \belowcaptionskip=\skip42
 \bibindent=\dimen102
 )
-(C:/Users/Saif/Desktop/software/miktex/tex/latex/geometry/geometry.sty
+("C:/Users/iasrluser/AppData/Local/Programs/MiKTeX 2.9/tex/latex/geometry/geome
+try.sty"
 Package: geometry 2010/09/12 v5.6 Page Geometry
 
-(C:/Users/Saif/Desktop/software/miktex/tex/latex/graphics/keyval.sty
+("C:/Users/iasrluser/AppData/Local/Programs/MiKTeX 2.9/tex/latex/graphics/keyva
+l.sty"
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks14
 )
-(C:/Users/Saif/Desktop/software/miktex/tex/generic/oberdiek/ifpdf.sty
+("C:/Users/iasrluser/AppData/Local/Programs/MiKTeX 2.9/tex/generic/oberdiek/ifp
+df.sty"
 Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
 Package ifpdf Info: pdfTeX in PDF mode is detected.
 )
-(C:/Users/Saif/Desktop/software/miktex/tex/generic/oberdiek/ifvtex.sty
+("C:/Users/iasrluser/AppData/Local/Programs/MiKTeX 2.9/tex/generic/oberdiek/ifv
+tex.sty"
 Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
 Package ifvtex Info: VTeX not detected.
 )
-(C:/Users/Saif/Desktop/software/miktex/tex/generic/ifxetex/ifxetex.sty
+("C:/Users/iasrluser/AppData/Local/Programs/MiKTeX 2.9/tex/generic/ifxetex/ifxe
+tex.sty"
 Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 )
 \Gm@cnth=\count87
@@ -54,14 +63,16 @@ Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 \Gm@layoutvoffset=\dimen110
 \Gm@dimlist=\toks15
 
-(C:/Users/Saif/Desktop/software/miktex/tex/latex/geometry/geometry.cfg))
-(C:/Users/Saif/Desktop/software/miktex/tex/latex/fontspec/fontspec.sty
-Package: fontspec 2015/09/24 v2.4e Font selection for XeLaTeX and LuaLaTeX
-
-(C:/Users/Saif/Desktop/software/miktex/tex/latex/l3kernel/expl3.sty
+("C:/Users/iasrluser/AppData/Local/Programs/MiKTeX 2.9/tex/latex/geometry/geome
+try.cfg"))
+("C:/Users/iasrluser/AppData/Local/Programs/MiKTeX 2.9/tex/latex/fontspec/fonts
+pec.sty"
+("C:/Users/iasrluser/AppData/Local/Programs/MiKTeX 2.9/tex/latex/l3kernel/expl3
+.sty"
 Package: expl3 2016/01/19 v6377 L3 programming layer (loader) 
 
-(C:/Users/Saif/Desktop/software/miktex/tex/latex/l3kernel/expl3-code.tex
+("C:/Users/iasrluser/AppData/Local/Programs/MiKTeX 2.9/tex/latex/l3kernel/expl3
+-code.tex"
 Package: expl3 2016/01/19 v6377 L3 programming layer (code)
 L3 Module: l3bootstrap 2016/01/01 v6339 L3 Bootstrap code
 \ucharcat@table=\catcodetable5
@@ -169,11 +180,13 @@ L3 Module: l3candidates 2016/01/14 v6376 L3 Experimental additions to l3kernel
 \l__coffin_scaled_width_dim=\dimen141
 L3 Module: l3luatex 2015/11/11 v6250 L3 Experimental LuaTeX-specific functions
 )
-(C:/Users/Saif/Desktop/software/miktex/tex/latex/l3kernel/l3pdfmode.def
+("C:/Users/iasrluser/AppData/Local/Programs/MiKTeX 2.9/tex/latex/l3kernel/l3pdf
+mode.def"
 File: l3pdfmode.def 2015/11/11 v6250 L3 Experimental driver: PDF mode
 \l__driver_color_stack_int=\count112
 ))
-(C:/Users/Saif/Desktop/software/miktex/tex/latex/l3packages/xparse/xparse.sty
+("C:/Users/iasrluser/AppData/Local/Programs/MiKTeX 2.9/tex/latex/l3packages/xpa
+rse/xparse.sty"
 Package: xparse 2016/01/19 v6377 L3 Experimental document command parser
 \l__xparse_current_arg_int=\count113
 \l__xparse_m_args_int=\count114
@@ -181,15 +194,21 @@ Package: xparse 2016/01/19 v6377 L3 Experimental document command parser
 \l__xparse_processor_int=\count116
 \l__xparse_v_nesting_int=\count117
 )
-(C:/Users/Saif/Desktop/software/miktex/tex/luatex/luaotfload/luaotfload.sty
+Package: fontspec 2016/02/01 v2.5a Font selection for XeLaTeX and LuaLaTeX
+
+("C:/Users/iasrluser/AppData/Local/Programs/MiKTeX 2.9/tex/luatex/luaotfload/lu
+aotfload.sty"
 Package: luaotfload 2015/12/09 v2.6 OpenType layout system
 Lua module: luaotfload-main 2015/12/09 2.60001 OpenType layout system.
 Lua module: lualibs 2015-12-02 2.3 ConTeXt Lua standard libraries.
 Lua module: lualibs-extended 2015-12-02 2.3 ConTeXt Lua libraries -- extended co
-llection.(using cache: C:/Users/Saif/Desktop/software/miktex/luatex-cache/generi
-c)
-luaotfload | conf : Root cache directory is C:/Users/Saif/Desktop/software/mikte
-x/luatex-cache/generic/names.
+llection.(using cache: C:/Users/iasrluser/AppData/Local/MiKTeX/2.9/luatex-cache/
+generic)
+luaotfload | conf : Root cache directory is C:/Users/iasrluser/AppData/Local/MiK
+TeX/2.9/luatex-cache/generic/names.
+luaotfload | init : Loading fontloader “fontloader-2016-01-22.lua” from kpse
+-resolved path “C:/Users/iasrluser/AppData/Local/Programs/MiKTeX 2.9/tex/luate
+x/luaotfload/fontloader-2016-01-22.lua”.
 Lua-only attribute luaotfload@state = 1
 Lua-only attribute luaotfload@cursbase = 2
 Lua-only attribute luaotfload@noligature = 3
@@ -198,8 +217,8 @@ Inserting `luaotfload.node_processor' at position 1 in `pre_linebreak_filter'.
 Inserting `luaotfload.node_processor' at position 1 in `hpack_filter'.
 Inserting `luaotfload.define_font' at position 1 in `define_font'.
 Lua-only attribute luaotfload_color_attribute = 4
-luaotfload | conf : Root cache directory is C:/Users/Saif/Desktop/software/mikte
-x/luatex-cache/generic/names.
+luaotfload | conf : Root cache directory is C:/Users/iasrluser/AppData/Local/MiK
+TeX/2.9/luatex-cache/generic/names.
 Inserting `luaotfload.aux.set_sscale_dimens' at position 1 in `luaotfload.patch_
 font'.
 Inserting `luaotfload.aux.patch_cambria_domh' at position 2 in `luaotfload.patch
@@ -210,90 +229,91 @@ Inserting `luaotfload.aux.set_capheight' at position 3 in `luaotfload.patch_font
 '.
 Inserting `luaotfload.rewrite_fontname' at position 4 in `luaotfload.patch_font'
 .
-luaotfload | main : initialization completed in 0.503 seconds)
-Lua module: fontspec 2013/05/20 2.3c Advanced font selection for LuaLaTeX.
+luaotfload | main : initialization completed in 0.833 seconds)
+Lua module: fontspec 2016/02/01 2.5a Advanced font selection for LuaLaTeX.
+("C:/Users/iasrluser/AppData/Local/Programs/MiKTeX 2.9/tex/latex/fontspec/fonts
+pec-luatex.sty"
+Package: fontspec-luatex 2016/02/01 v2.5a Font selection for XeLaTeX and LuaLaTe
+X
 \l_fontspec_script_int=\count118
 \l_fontspec_language_int=\count119
 \l_fontspec_strnum_int=\count120
 \l__fontspec_tmpa_dim=\dimen142
 \l__fontspec_tmpb_dim=\dimen143
 \l__fontspec_tmpc_dim=\dimen144
+\g__file_internal_ior=\read1
 
-(C:/Users/Saif/Desktop/software/miktex/tex/latex/fontspec/fontspec-patches.sty
-Package: fontspec-patches 2015/09/24 v2.4e Font selection for XeLaTeX and LuaLaT
-eX
-LaTeX Info: Redefining \em on input line 49.
-LaTeX Info: Redefining \emph on input line 57.
-LaTeX Info: Redefining \- on input line 60.
-.................................................
-. LaTeX info: "xparse/redefine-command"
-. 
-. Redefining command \oldstylenums with sig. 'm' on line 155.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \liningnums with sig. 'm' on line 159.
-.................................................
-)
-(C:/Users/Saif/Desktop/software/miktex/tex/latex/fontspec/fontspec-luatex.sty
-Package: fontspec-luatex 2015/09/24 v2.4e Font selection for XeLaTeX and LuaLaTe
-X
-
-(C:/Users/Saif/Desktop/software/miktex/tex/latex/base/fontenc.sty
+("C:/Users/iasrluser/AppData/Local/Programs/MiKTeX 2.9/tex/latex/base/fontenc.s
+ty"
 Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
 
-(C:/Users/Saif/Desktop/software/miktex/tex/latex/euenc/eu2enc.def
+("C:/Users/iasrluser/AppData/Local/Programs/MiKTeX 2.9/tex/latex/euenc/eu2enc.d
+ef"
 File: eu2enc.def 2010/05/27 v0.1h Experimental Unicode font encodings
 )
 LaTeX Font Info:    Try loading font information for EU2+lmr on input line 105.
 
-(C:/Users/Saif/Desktop/software/miktex/tex/latex/euenc/eu2lmr.fd
+("C:/Users/iasrluser/AppData/Local/Programs/MiKTeX 2.9/tex/latex/euenc/eu2lmr.f
+d"
 File: eu2lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-luaotfload | db : Font names database loaded from C:/Users/Saif/Desktop/software
-/miktex/luatex-cache/generic/names/luaotfload-names.luc(load luc: C:/Users/Saif/
-Desktop/software/miktex/luatex-cache/generic/fonts/otf/lmroman10-regular.luc))
-(C:/Users/Saif/Desktop/software/miktex/tex/xelatex/xunicode/xunicode.sty
+luaotfload | db : Font names database loaded from C:/Users/iasrluser/AppData/Loc
+al/MiKTeX/2.9/luatex-cache/generic/names/luaotfload-names.luc(load luc: C:/Users
+/iasrluser/AppData/Local/MiKTeX/2.9/luatex-cache/generic/fonts/otf/lmroman10-reg
+ular.luc))
+("C:/Users/iasrluser/AppData/Local/Programs/MiKTeX 2.9/tex/xelatex/xunicode/xun
+icode.sty"
 File: xunicode.sty 2011/09/09 v0.981 provides access to latin accents and many o
 ther characters in Unicode lower plane
 
-(C:/Users/Saif/Desktop/software/miktex/tex/latex/tipa/t3enc.def
+("C:/Users/iasrluser/AppData/Local/Programs/MiKTeX 2.9/tex/latex/tipa/t3enc.def
+"
 File: t3enc.def 2001/12/31 T3 encoding
-(load luc: C:/Users/Saif/Desktop/software/miktex/luatex-cache/generic/fonts/otf/
-lmromanslant10-regular.luc)(load luc: C:/Users/Saif/Desktop/software/miktex/luat
-ex-cache/generic/fonts/otf/lmroman10-italic.luc)(load luc: C:/Users/Saif/Desktop
-/software/miktex/luatex-cache/generic/fonts/otf/lmroman10-bold.luc)
+(load luc: C:/Users/iasrluser/AppData/Local/MiKTeX/2.9/luatex-cache/generic/font
+s/otf/lmromanslant10-regular.luc)(load luc: C:/Users/iasrluser/AppData/Local/MiK
+TeX/2.9/luatex-cache/generic/fonts/otf/lmroman10-italic.luc)(load luc: C:/Users/
+iasrluser/AppData/Local/MiKTeX/2.9/luatex-cache/generic/fonts/otf/lmroman10-bold
+.luc)
 LaTeX Font Info:    Try loading font information for EU2+lmss on input line 357.
 
 
-(C:/Users/Saif/Desktop/software/miktex/tex/latex/euenc/eu2lmss.fd
+("C:/Users/iasrluser/AppData/Local/Programs/MiKTeX 2.9/tex/latex/euenc/eu2lmss.
+fd"
 File: eu2lmss.fd 2009/10/30 v1.6 Font defs for Latin Modern
-)(load luc: C:/Users/Saif/Desktop/software/miktex/luatex-cache/generic/fonts/otf
-/lmsans10-regular.luc))
+)(load luc: C:/Users/iasrluser/AppData/Local/MiKTeX/2.9/luatex-cache/generic/fon
+ts/otf/lmsans10-regular.luc))
 \tipaTiiicode=\count121
 \tipasavetokens=\toks16
 \tipachecktokens=\toks17
- (C:/Users/Saif/Desktop/software/miktex/tex/latex/graphics/graphicx.sty
-Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
-(C:/Users/Saif/Desktop/software/miktex/tex/latex/graphics/graphics.sty
-Package: graphics 2014/10/28 v1.0p Standard LaTeX Graphics (DPC,SPQR)
 
-(C:/Users/Saif/Desktop/software/miktex/tex/latex/graphics/trig.sty
-Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+("C:/Users/iasrluser/AppData/Local/Programs/MiKTeX 2.9/tex/latex/graphics/graph
+icx.sty"
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:/Users/iasrluser/AppData/Local/Programs/MiKTeX 2.9/tex/latex/graphics/graph
+ics.sty"
+Package: graphics 2016/01/03 v1.0q Standard LaTeX Graphics (DPC,SPQR)
+
+("C:/Users/iasrluser/AppData/Local/Programs/MiKTeX 2.9/tex/latex/graphics/trig.
+sty"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
 )
-(C:/Users/Saif/Desktop/software/miktex/tex/latex/00miktex/graphics.cfg
+("C:/Users/iasrluser/AppData/Local/Programs/MiKTeX 2.9/tex/latex/00miktex/graph
+ics.cfg"
 File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
 )
-Package graphics Info: Driver file: pdftex.def on input line 94.
+Package graphics Info: Driver file: pdftex.def on input line 95.
 
-(C:/Users/Saif/Desktop/software/miktex/tex/latex/pdftex-def/pdftex.def
+("C:/Users/iasrluser/AppData/Local/Programs/MiKTeX 2.9/tex/latex/pdftex-def/pdf
+tex.def"
 File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
 
-(C:/Users/Saif/Desktop/software/miktex/tex/generic/oberdiek/infwarerr.sty
+("C:/Users/iasrluser/AppData/Local/Programs/MiKTeX 2.9/tex/generic/oberdiek/inf
+warerr.sty"
 Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
 )
-(C:/Users/Saif/Desktop/software/miktex/tex/generic/oberdiek/ltxcmds.sty
+("C:/Users/iasrluser/AppData/Local/Programs/MiKTeX 2.9/tex/generic/oberdiek/ltx
+cmds.sty"
 Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
 )
 \Gread@gobject=\count122
@@ -304,124 +324,141 @@ Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \__fontspec_post_arg:w with sig. 'mmO{}' on line 45.
+. Defining command \__fontspec_post_arg:w with sig. 'mmO{}' on line 356.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \fontspec with sig. 'om' on line 47.
+. Defining command \fontspec with sig. 'om' on line 358.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \setmainfont with sig. 'om' on line 57.
+. Defining command \setmainfont with sig. 'om' on line 368.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \setsansfont with sig. 'om' on line 67.
+. Defining command \setsansfont with sig. 'om' on line 378.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \setmonofont with sig. 'om' on line 77.
+. Defining command \setmonofont with sig. 'om' on line 388.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \setmathrm with sig. 'om' on line 91.
+. Defining command \setmathrm with sig. 'om' on line 402.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \setboldmathrm with sig. 'om' on line 99.
+. Defining command \setboldmathrm with sig. 'om' on line 410.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \setmathsf with sig. 'om' on line 107.
+. Defining command \setmathsf with sig. 'om' on line 418.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \setmathtt with sig. 'om' on line 115.
+. Defining command \setmathtt with sig. 'om' on line 426.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \newfontfamily with sig. 'mom' on line 129.
+. Defining command \newfontfamily with sig. 'mom' on line 440.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \newfontface with sig. 'mom' on line 144.
+. Defining command \newfontface with sig. 'mom' on line 456.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \defaultfontfeatures with sig. 't+om' on line 158.
+. Defining command \defaultfontfeatures with sig. 't+om' on line 470.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \addfontfeatures with sig. 'm' on line 214.
+. Defining command \addfontfeatures with sig. 'm' on line 533.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \newfontfeature with sig. 'mm' on line 225.
+. Defining command \newfontfeature with sig. 'mm' on line 544.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \newAATfeature with sig. 'mmmm' on line 233.
+. Defining command \newAATfeature with sig. 'mmmm' on line 552.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \newopentypefeature with sig. 'mmm' on line 241.
+. Defining command \newopentypefeature with sig. 'mmm' on line 560.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \aliasfontfeature with sig. 'mm' on line 262.
+. Defining command \aliasfontfeature with sig. 'mm' on line 581.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \aliasfontfeatureoption with sig. 'mmm' on line 271.
+. Defining command \aliasfontfeatureoption with sig. 'mmm' on line 590.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \newfontscript with sig. 'mm' on line 276.
+. Defining command \newfontscript with sig. 'mm' on line 594.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \newfontlanguage with sig. 'mm' on line 302.
+. Defining command \newfontlanguage with sig. 'mm' on line 598.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \DeclareFontsExtensions with sig. 'm' on line 322.
+. Defining command \DeclareFontsExtensions with sig. 'm' on line 603.
 .................................................
 \l__fontspec_tmp_int=\count123
-LaTeX Info: Redefining \itshape on input line 2151.
-LaTeX Info: Redefining \slshape on input line 2156.
-LaTeX Info: Redefining \scshape on input line 2161.
-LaTeX Info: Redefining \upshape on input line 2166.
 
-(C:/Users/Saif/Desktop/software/miktex/tex/latex/fontspec/fontspec.cfg)))
-\g__file_internal_ior=\read1
-luaotfload | cache : Lookup cache loaded from C:/Users/Saif/Desktop/software/mik
-tex/luatex-cache/generic/names/luaotfload-lookup-cache.luc.
+("C:/Users/iasrluser/AppData/Local/Programs/MiKTeX 2.9/tex/latex/fontspec/fonts
+pec.cfg")
+LaTeX Info: Redefining \itshape on input line 2629.
+LaTeX Info: Redefining \slshape on input line 2634.
+LaTeX Info: Redefining \scshape on input line 2639.
+LaTeX Info: Redefining \upshape on input line 2644.
+\l__fontspec_em_int=\count124
+\l__fontspec_emdef_int=\count125
+LaTeX Info: Redefining \em on input line 2660.
+LaTeX Info: Redefining \emph on input line 2666.
+LaTeX Info: Redefining \- on input line 2670.
+.................................................
+. LaTeX info: "xparse/redefine-command"
+. 
+. Redefining command \oldstylenums with sig. 'm' on line 2765.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \liningnums with sig. 'm' on line 2769.
+.................................................
+))
+luaotfload | cache : Lookup cache loaded from C:/Users/iasrluser/AppData/Local/M
+iKTeX/2.9/luatex-cache/generic/names/luaotfload-lookup-cache.luc.
 luaotfload | load : Lookup/name: "Times New Roman" -> "times.ttf"(load luc: C:/U
-sers/Saif/Desktop/software/miktex/luatex-cache/generic/fonts/otf/times.luc)
+sers/iasrluser/AppData/Local/MiKTeX/2.9/luatex-cache/generic/fonts/otf/times.luc
+)
 luaotfload | load : Lookup/name: "Times New Roman" -> "times.ttf"
-luaotfload | aux : font no 21 (TimesNewRomanPSMT) does not define feature liga f
+luaotfload | aux : font no 22 (TimesNewRomanPSMT) does not define feature liga f
 or script latn with language dflt
-luaotfload | aux : no font with id 21
+luaotfload | aux : no font with id 22
 *************************************************
 * fontspec warning: "icu-feature-not-exist-in-font"
 * 
@@ -429,21 +466,34 @@ luaotfload | aux : no font with id 21
 * available for font 'Times New Roman' with script 'Latin' and language
 * 'Default'.
 *************************************************
-\g__fontspec_family_TimesNewRoman_int=\count124
+luaotfload | aux : font no 22 (TimesNewRomanPSMT) does not define feature dlig f
+or script latn with language dflt
+luaotfload | aux : no font with id 22
+*************************************************
+* fontspec warning: "icu-feature-not-exist-in-font"
+* 
+* OpenType feature 'Ligatures=TeX, NoCommon, NoDiscretionary' (-dlig) not
+* available for font 'Times New Roman' with script 'Latin' and language
+* 'Default'.
+*************************************************
+\g__fontspec_family_TimesNewRoman_int=\count126
 luaotfload | load : Lookup/name: "Times New Roman" -> "times.ttf"
 luaotfload | load : Lookup/name: "Times New Roman" -> "timesbi.ttf"(load luc: C:
-/Users/Saif/Desktop/software/miktex/luatex-cache/generic/fonts/otf/timesbi.luc)
+/Users/iasrluser/AppData/Local/MiKTeX/2.9/luatex-cache/generic/fonts/otf/timesbi
+.luc)
 luaotfload | load : Lookup/name: "Times New Roman" -> "times.ttf"
 luaotfload | load : Lookup/name: "Times New Roman" -> "timesbd.ttf"(load luc: C:
-/Users/Saif/Desktop/software/miktex/luatex-cache/generic/fonts/otf/timesbd.luc)
+/Users/iasrluser/AppData/Local/MiKTeX/2.9/luatex-cache/generic/fonts/otf/timesbd
+.luc)
 luaotfload | load : Lookup/name: "Times New Roman" -> "times.ttf"
 luaotfload | load : Lookup/name: "Times New Roman" -> "timesi.ttf"(load luc: C:/
-Users/Saif/Desktop/software/miktex/luatex-cache/generic/fonts/otf/timesi.luc)
+Users/iasrluser/AppData/Local/MiKTeX/2.9/luatex-cache/generic/fonts/otf/timesi.l
+uc)
 luaotfload | load : Lookup/name: "TimesNewRoman" -> "times.ttf"
 luaotfload | load : Lookup/name: "TimesNewRoman" -> "times.ttf"
-luaotfload | aux : font no 21 (TimesNewRomanPSMT) does not define feature liga f
+luaotfload | aux : font no 22 (TimesNewRomanPSMT) does not define feature liga f
 or script latn with language dflt
-luaotfload | aux : no font with id 21
+luaotfload | aux : no font with id 22
 *************************************************
 * fontspec warning: "icu-feature-not-exist-in-font"
 * 
@@ -451,21 +501,24 @@ luaotfload | aux : no font with id 21
 * available for font 'TimesNewRoman' with script 'Latin' and language
 * 'Default'.
 *************************************************
-luaotfload | aux : font no 21 (TimesNewRomanPSMT) does not define feature liga f
+luaotfload | aux : font no 22 (TimesNewRomanPSMT) does not define feature dlig f
 or script latn with language dflt
-luaotfload | aux : no font with id 21
+luaotfload | aux : no font with id 22
 *************************************************
 * fontspec warning: "icu-feature-not-exist-in-font"
 * 
-* OpenType feature 'Ligatures=TeX, NoCommon, NoDiscretionary' (-liga) not
+* OpenType feature 'Ligatures=TeX, NoCommon, NoDiscretionary' (-dlig) not
 * available for font 'TimesNewRoman' with script 'Latin' and language
 * 'Default'.
 *************************************************
+luaotfload | aux : font no 22 (TimesNewRomanPSMT) does not define feature smcp f
+or script latn with language dflt
+luaotfload | aux : no font with id 22
 luaotfload | load : Lookup/name: "TimesNewRoman" -> "timesbd.ttf"
 luaotfload | load : Lookup/name: "TimesNewRoman" -> "timesbd.ttf"
-luaotfload | aux : font no 23 (TimesNewRomanPS-BoldMT) does not define feature l
+luaotfload | aux : font no 24 (TimesNewRomanPS-BoldMT) does not define feature l
 iga for script latn with language dflt
-luaotfload | aux : no font with id 23
+luaotfload | aux : no font with id 24
 *************************************************
 * fontspec warning: "icu-feature-not-exist-in-font"
 * 
@@ -473,60 +526,69 @@ luaotfload | aux : no font with id 23
 * available for font 'TimesNewRoman/B' with script 'Latin' and language
 * 'Default'.
 *************************************************
-luaotfload | aux : font no 23 (TimesNewRomanPS-BoldMT) does not define feature l
-iga for script latn with language dflt
+luaotfload | aux : font no 24 (TimesNewRomanPS-BoldMT) does not define feature d
+lig for script latn with language dflt
+luaotfload | aux : no font with id 24
+*************************************************
+* fontspec warning: "icu-feature-not-exist-in-font"
+* 
+* OpenType feature 'Ligatures=TeX, NoCommon, NoDiscretionary' (-dlig) not
+* available for font 'TimesNewRoman/B' with script 'Latin' and language
+* 'Default'.
+*************************************************
+luaotfload | aux : font no 24 (TimesNewRomanPS-BoldMT) does not define feature s
+mcp for script latn with language dflt
+luaotfload | aux : no font with id 24
+luaotfload | load : Lookup/name: "TimesNewRoman" -> "timesi.ttf"
+luaotfload | load : Lookup/name: "TimesNewRoman" -> "timesi.ttf"
+luaotfload | aux : font no 25 (TimesNewRomanPS-ItalicMT) does not define feature
+ liga for script latn with language dflt
+luaotfload | aux : no font with id 25
+*************************************************
+* fontspec warning: "icu-feature-not-exist-in-font"
+* 
+* OpenType feature 'Ligatures=TeX, NoCommon, NoDiscretionary' (-liga) not
+* available for font 'TimesNewRoman/I' with script 'Latin' and language
+* 'Default'.
+*************************************************
+luaotfload | aux : font no 25 (TimesNewRomanPS-ItalicMT) does not define feature
+ dlig for script latn with language dflt
+luaotfload | aux : no font with id 25
+*************************************************
+* fontspec warning: "icu-feature-not-exist-in-font"
+* 
+* OpenType feature 'Ligatures=TeX, NoCommon, NoDiscretionary' (-dlig) not
+* available for font 'TimesNewRoman/I' with script 'Latin' and language
+* 'Default'.
+*************************************************
+luaotfload | aux : font no 25 (TimesNewRomanPS-ItalicMT) does not define feature
+ smcp for script latn with language dflt
+luaotfload | aux : no font with id 25
+luaotfload | load : Lookup/name: "TimesNewRoman" -> "timesbi.ttf"
+luaotfload | load : Lookup/name: "TimesNewRoman" -> "timesbi.ttf"
+luaotfload | aux : font no 23 (TimesNewRomanPS-BoldItalicMT) does not define fea
+ture liga for script latn with language dflt
 luaotfload | aux : no font with id 23
 *************************************************
 * fontspec warning: "icu-feature-not-exist-in-font"
 * 
 * OpenType feature 'Ligatures=TeX, NoCommon, NoDiscretionary' (-liga) not
-* available for font 'TimesNewRoman/B' with script 'Latin' and language
-* 'Default'.
-*************************************************
-luaotfload | load : Lookup/name: "TimesNewRoman" -> "timesi.ttf"
-luaotfload | load : Lookup/name: "TimesNewRoman" -> "timesi.ttf"
-luaotfload | aux : font no 24 (TimesNewRomanPS-ItalicMT) does not define feature
- liga for script latn with language dflt
-luaotfload | aux : no font with id 24
-*************************************************
-* fontspec warning: "icu-feature-not-exist-in-font"
-* 
-* OpenType feature 'Ligatures=TeX, NoCommon, NoDiscretionary' (-liga) not
-* available for font 'TimesNewRoman/I' with script 'Latin' and language
-* 'Default'.
-*************************************************
-luaotfload | aux : font no 24 (TimesNewRomanPS-ItalicMT) does not define feature
- liga for script latn with language dflt
-luaotfload | aux : no font with id 24
-*************************************************
-* fontspec warning: "icu-feature-not-exist-in-font"
-* 
-* OpenType feature 'Ligatures=TeX, NoCommon, NoDiscretionary' (-liga) not
-* available for font 'TimesNewRoman/I' with script 'Latin' and language
-* 'Default'.
-*************************************************
-luaotfload | load : Lookup/name: "TimesNewRoman" -> "timesbi.ttf"
-luaotfload | load : Lookup/name: "TimesNewRoman" -> "timesbi.ttf"
-luaotfload | aux : font no 22 (TimesNewRomanPS-BoldItalicMT) does not define fea
-ture liga for script latn with language dflt
-luaotfload | aux : no font with id 22
-*************************************************
-* fontspec warning: "icu-feature-not-exist-in-font"
-* 
-* OpenType feature 'Ligatures=TeX, NoCommon, NoDiscretionary' (-liga) not
 * available for font 'TimesNewRoman/BI' with script 'Latin' and language
 * 'Default'.
 *************************************************
-luaotfload | aux : font no 22 (TimesNewRomanPS-BoldItalicMT) does not define fea
-ture liga for script latn with language dflt
-luaotfload | aux : no font with id 22
+luaotfload | aux : font no 23 (TimesNewRomanPS-BoldItalicMT) does not define fea
+ture dlig for script latn with language dflt
+luaotfload | aux : no font with id 23
 *************************************************
 * fontspec warning: "icu-feature-not-exist-in-font"
 * 
-* OpenType feature 'Ligatures=TeX, NoCommon, NoDiscretionary' (-liga) not
+* OpenType feature 'Ligatures=TeX, NoCommon, NoDiscretionary' (-dlig) not
 * available for font 'TimesNewRoman/BI' with script 'Latin' and language
 * 'Default'.
 *************************************************
+luaotfload | aux : font no 23 (TimesNewRomanPS-BoldItalicMT) does not define fea
+ture smcp for script latn with language dflt
+luaotfload | aux : no font with id 23
 .................................................
 . fontspec info: "defining-font"
 . 
@@ -534,61 +596,25 @@ luaotfload | aux : no font with id 22
 . options [Ligatures=TeX,SmallCapsFeatures={Renderer=Basic},Ligatures={TeX,
 . NoCommon, NoDiscretionary}].
 . 
-. This font family consists of the following shapes:
-. 
-. * 'normal' with NFSS spec.:
-. 
-. <->"TimesNewRoman:mode=node;script=latn;language=DFLT;+tlig;+trep;+tlig;+trep;
--dlig;"
-. 
-. * 'small caps' with NFSS spec.:
-. 
-. <->"TimesNewRoman:mode=base;script=latn;language=DFLT;+tlig;+trep;+tlig;+trep;
--dlig;+smcp;"
-. and font adjustment code:
-. 
-. 
-. * 'bold' with NFSS spec.:
-. 
-. <->"TimesNewRoman/B:mode=node;script=latn;language=DFLT;+tlig;+trep;+tlig;+tre
-p;-dlig;"
-. 
-. * 'bold small caps' with NFSS spec.:
-. 
-. <->"TimesNewRoman/B:mode=base;script=latn;language=DFLT;+tlig;+trep;+tlig;+tre
-p;-dlig;+smcp;"
-. and font adjustment code:
-. 
-. 
-. * 'italic' with NFSS spec.:
-. 
-. <->"TimesNewRoman/I:mode=node;script=latn;language=DFLT;+tlig;+trep;+tlig;+tre
-p;-dlig;"
-. 
-. * 'small caps' with NFSS spec.:
-. 
-. <->"TimesNewRoman/I:mode=base;script=latn;language=DFLT;+tlig;+trep;+tlig;+tre
-p;-dlig;+smcp;"
-. and font adjustment code:
-. 
-. 
-. * 'bold italic' with NFSS spec.:
-. 
-. <->"TimesNewRoman/BI:mode=node;script=latn;language=DFLT;+tlig;+trep;+tlig;+tr
-ep;-dlig;"
-. 
-. * 'bold small caps' with NFSS spec.:
-. 
-. <->"TimesNewRoman/BI:mode=base;script=latn;language=DFLT;+tlig;+trep;+tlig;+tr
-ep;-dlig;+smcp;"
-. and font adjustment code:
-. 
+. This font family consists of the following NFSS series/shapes:
+. - 'normal' (m/n) with NFSS spec.:
+. <->"TimesNewRoman:mode=node;script=latn;language=DFLT;+tlig;+tlig;"
+. - 'small caps'  (m/sc) with NFSS spec.: - 'bold' (bx/n) with NFSS spec.:
+. <->"TimesNewRoman/B:mode=node;script=latn;language=DFLT;+tlig;+tlig;"
+. - 'bold small caps'  (bx/sc) with NFSS spec.: - 'italic' (m/it) with NFSS
+. spec.: <->"TimesNewRoman/I:mode=node;script=latn;language=DFLT;+tlig;+tlig;"
+. - 'italic small caps'  (m/itsc) with NFSS spec.: - 'bold italic' (bx/it)
+. with NFSS spec.:
+. <->"TimesNewRoman/BI:mode=node;script=latn;language=DFLT;+tlig;+tlig;"
+. - 'bold italic small caps'  (bx/itsc) with NFSS spec.: 
 .................................................
-luaotfload | load : Lookup/name: "TimesNewRoman" -> "times.ttf" (C:/Users/Saif/
-Desktop/software/miktex/tex/latex/ltxmisc/parskip.sty
+luaotfload | load : Lookup/name: "TimesNewRoman" -> "times.ttf"
+("C:/Users/iasrluser/AppData/Local/Programs/MiKTeX 2.9/tex/latex/ltxmisc/parski
+p.sty"
 Package: parskip 2001/04/09 non-zero parskip adjustments
 )
-(C:/Users/Saif/Desktop/software/miktex/tex/latex/tools/array.sty
+("C:/Users/iasrluser/AppData/Local/Programs/MiKTeX 2.9/tex/latex/tools/array.st
+y"
 Package: array 2014/10/28 v2.4c Tabular extension package (FMi)
 \col@sep=\dimen147
 \extrarowheight=\dimen148
@@ -596,26 +622,28 @@ Package: array 2014/10/28 v2.4c Tabular extension package (FMi)
 \extratabsurround=\skip49
 \backup@length=\skip50
 )
-(C:/Users/Saif/Desktop/software/miktex/tex/latex/etoolbox/etoolbox.sty
+("C:/Users/iasrluser/AppData/Local/Programs/MiKTeX 2.9/tex/latex/etoolbox/etool
+box.sty"
 Package: etoolbox 2015/08/02 v2.2a e-TeX tools for LaTeX (JAW)
-\etb@tempcnta=\count125
+\etb@tempcnta=\count127
 )
-(C:/Users/Saif/Desktop/software/miktex/tex/latex/tabu/tabu.sty
+("C:/Users/iasrluser/AppData/Local/Programs/MiKTeX 2.9/tex/latex/tabu/tabu.sty"
 Package: tabu 2011/02/26 v2.8 - flexible LaTeX tabulars (FC)
 
-(C:/Users/Saif/Desktop/software/miktex/tex/latex/ltxmisc/varwidth.sty
+("C:/Users/iasrluser/AppData/Local/Programs/MiKTeX 2.9/tex/latex/ltxmisc/varwid
+th.sty"
 Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
 \@vwid@box=\box41
-\sift@deathcycles=\count126
+\sift@deathcycles=\count128
 \@vwid@loff=\dimen149
 \@vwid@roff=\dimen150
 )
-\c@taburow=\count127
-\tabu@nbcols=\count128
-\tabu@cnt=\count129
-\tabu@Xcol=\count130
-\tabu@alloc=\count131
-\tabu@nested=\count132
+\c@taburow=\count129
+\tabu@nbcols=\count130
+\tabu@cnt=\count131
+\tabu@Xcol=\count132
+\tabu@alloc=\count133
+\tabu@nested=\count134
 \tabu@target=\dimen151
 \tabu@spreadtarget=\dimen152
 \tabu@naturalX=\dimen153
@@ -633,36 +661,43 @@ Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
 \tabu@vleads=\box45
 \tabu@cellskip=\skip51
 )
-(C:/Users/Saif/Desktop/software/miktex/tex/latex/changepage/changepage.sty
+("C:/Users/iasrluser/AppData/Local/Programs/MiKTeX 2.9/tex/latex/changepage/cha
+ngepage.sty"
 Package: changepage 2009/10/20 v1.0c check page and change page layout
-\c@cp@cntr=\count133
-\cp@tempcnt=\count134
+\c@cp@cntr=\count135
+\cp@tempcnt=\count136
 )
-(C:/Users/Saif/Desktop/software/miktex/tex/latex/enumitem/enumitem.sty
+("C:/Users/iasrluser/AppData/Local/Programs/MiKTeX 2.9/tex/latex/enumitem/enumi
+tem.sty"
 Package: enumitem 2011/09/28 v3.5.2 Customized lists
 \labelindent=\skip52
 \enit@outerparindent=\dimen160
 \enit@toks=\toks21
 \enit@inbox=\box46
-\enitdp@description=\count135
+\enitdp@description=\count137
 )
-(C:/Users/Saif/Desktop/software/miktex/tex/latex/microtype/microtype.sty
+("C:/Users/iasrluser/AppData/Local/Programs/MiKTeX 2.9/tex/latex/microtype/micr
+otype.sty"
 Package: microtype 2013/05/23 v2.5a Micro-typographical refinements (RS)
 \MT@toks=\toks22
-\MT@count=\count136
+\MT@count=\count138
 LaTeX Info: Redefining \textls on input line 766.
 \MT@outer@kern=\dimen161
 LaTeX Info: Redefining \textmicrotypecontext on input line 1285.
-\MT@listname@count=\count137
+\MT@listname@count=\count139
 
-(C:/Users/Saif/Desktop/software/miktex/tex/latex/microtype/microtype-luatex.def
+("C:/Users/iasrluser/AppData/Local/Programs/MiKTeX 2.9/tex/latex/microtype/micr
+otype-luatex.def"
 File: microtype-luatex.def 2013/05/23 v2.5a Definitions specific to luatex (RS)
-(C:/Users/Saif/Desktop/software/miktex/tex/luatex/luatexbase/luatexbase.sty
+
+("C:/Users/iasrluser/AppData/Local/Programs/MiKTeX 2.9/tex/luatex/luatexbase/lu
+atexbase.sty"
 Package: luatexbase 2015/10/04 v1.3 luatexbase interface to LuaTeX 
 
-(C:/Users/Saif/Desktop/software/miktex/tex/luatex/ctablestack/ctablestack.sty
+("C:/Users/iasrluser/AppData/Local/Programs/MiKTeX 2.9/tex/luatex/ctablestack/c
+tablestack.sty"
 Package: ctablestack 2015/10/01 v1.0 Catcode table stable support
-\@catcodetablestackcnt=\count138
+\@catcodetablestackcnt=\count140
 )
 \CatcodeTableOther=\catcodetable6
 \CatcodeTableExpl=\catcodetable7
@@ -673,36 +708,44 @@ LaTeX Info: Redefining \lslig on input line 644.
 \MT@outer@space=\skip53
 )
 Package microtype Info: Loading configuration file microtype.cfg.
-(C:/Users/Saif/Desktop/software/miktex/tex/latex/microtype/microtype.cfg
+
+("C:/Users/iasrluser/AppData/Local/Programs/MiKTeX 2.9/tex/latex/microtype/micr
+otype.cfg"
 File: microtype.cfg 2013/05/23 v2.5a microtype main configuration file (RS)
 )))
-(C:/Users/Saif/Desktop/software/miktex/tex/latex/amsmath/amsmath.sty
+("C:/Users/iasrluser/AppData/Local/Programs/MiKTeX 2.9/tex/latex/amsmath/amsmat
+h.sty"
 Package: amsmath 2013/01/14 v2.14 AMS math features
 \@mathmargin=\skip54
 
 For additional information on amsmath, use the `?' option.
-(C:/Users/Saif/Desktop/software/miktex/tex/latex/amsmath/amstext.sty
+
+("C:/Users/iasrluser/AppData/Local/Programs/MiKTeX 2.9/tex/latex/amsmath/amstex
+t.sty"
 Package: amstext 2000/06/29 v2.01
 
-(C:/Users/Saif/Desktop/software/miktex/tex/latex/amsmath/amsgen.sty
+("C:/Users/iasrluser/AppData/Local/Programs/MiKTeX 2.9/tex/latex/amsmath/amsgen
+.sty"
 File: amsgen.sty 1999/11/30 v2.0
 \@emptytoks=\toks23
 \ex@=\dimen162
 ))
-(C:/Users/Saif/Desktop/software/miktex/tex/latex/amsmath/amsbsy.sty
+("C:/Users/iasrluser/AppData/Local/Programs/MiKTeX 2.9/tex/latex/amsmath/amsbsy
+.sty"
 Package: amsbsy 1999/11/29 v1.2d
 \pmbraise@=\dimen163
 )
-(C:/Users/Saif/Desktop/software/miktex/tex/latex/amsmath/amsopn.sty
+("C:/Users/iasrluser/AppData/Local/Programs/MiKTeX 2.9/tex/latex/amsmath/amsopn
+.sty"
 Package: amsopn 1999/12/14 v2.01 operator names
 )
-\inf@bad=\count139
+\inf@bad=\count141
 LaTeX Info: Redefining \frac on input line 210.
-\uproot@=\count140
-\leftroot@=\count141
+\uproot@=\count142
+\leftroot@=\count143
 LaTeX Info: Redefining \overline on input line 306.
-\classnum@=\count142
-\DOTSCASE@=\count143
+\classnum@=\count144
+\DOTSCASE@=\count145
 LaTeX Info: Redefining \ldots on input line 378.
 LaTeX Info: Redefining \dots on input line 381.
 LaTeX Info: Redefining \cdots on input line 466.
@@ -711,15 +754,15 @@ LaTeX Info: Redefining \cdots on input line 466.
 \big@size=\dimen164
 LaTeX Font Info:    Redeclaring font encoding OML on input line 566.
 LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
-\macc@depth=\count144
-\c@MaxMatrixCols=\count145
+\macc@depth=\count146
+\c@MaxMatrixCols=\count147
 \dotsspace@=\muskip16
-\c@parentequation=\count146
-\dspbrk@lvl=\count147
+\c@parentequation=\count148
+\dspbrk@lvl=\count149
 \tag@help=\toks24
-\row@=\count148
-\column@=\count149
-\maxfields@=\count150
+\row@=\count150
+\column@=\count151
+\maxfields@=\count152
 \andhelp@=\toks25
 \eqnshift@=\dimen165
 \alignsep@=\dimen166
@@ -733,9 +776,8 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
 \mathdisplay@stack=\toks27
 LaTeX Info: Redefining \[ on input line 2665.
 LaTeX Info: Redefining \] on input line 2666.
-)
-(./saiful-abu.aux)
-\openout1 = saiful-abu.aux
+) (./McDowell_CV_Template.aux)
+\openout1 = McDowell_CV_Template.aux
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 34.
 LaTeX Font Info:    ... okay on input line 34.
@@ -754,11 +796,11 @@ LaTeX Font Info:    ... okay on input line 34.
 LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 34.
 LaTeX Font Info:    Try loading font information for T3+cmr on input line 34.
 
-(C:/Users/Saif/Desktop/software/miktex/tex/latex/tipa/t3cmr.fd
+("C:/Users/iasrluser/AppData/Local/Programs/MiKTeX 2.9/tex/latex/tipa/t3cmr.fd"
 File: t3cmr.fd 2001/12/31 TIPA font definitions
 )
 LaTeX Font Info:    ... okay on input line 34.
-luaotfload | load : Lookup/name: "TimesNewRoman" -> "times.ttf"
+
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
@@ -793,18 +835,20 @@ luaotfload | load : Lookup/name: "TimesNewRoman" -> "times.ttf"
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-(C:/Users/Saif/Desktop/software/miktex/tex/context/base/supp-pdf.mkii
+
+("C:/Users/iasrluser/AppData/Local/Programs/MiKTeX 2.9/tex/context/base/supp-pd
+f.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count151
+\scratchcounter=\count153
 \scratchdimen=\dimen171
 \scratchbox=\box49
-\nofMPsegments=\count152
-\nofMParguments=\count153
+\nofMPsegments=\count154
+\nofMParguments=\count155
 \everyMPshowfont=\toks28
-\MPscratchCnt=\count154
+\MPscratchCnt=\count156
 \MPscratchDim=\dimen172
-\MPnumerator=\count155
-\makeMPintoPDFobject=\count156
+\MPnumerator=\count157
+\makeMPintoPDFobject=\count158
 \everyMPtoPDFconversion=\toks29
 )
 .................................................
@@ -882,43 +926,47 @@ Package microtype Info: No adjustment of tracking.
 Package microtype Info: No adjustment of spacing.
 Package microtype Info: No adjustment of kerning.
 luaotfload | load : Lookup/name: "TimesNewRoman" -> "times.ttf"
-luaotfload | load : Lookup/name: "TimesNewRoman" -> "times.ttf" (C:/Users/Saif/
-Desktop/software/miktex/tex/latex/microtype/mt-cmr.cfg
+luaotfload | load : Lookup/name: "TimesNewRoman" -> "times.ttf"
+("C:/Users/iasrluser/AppData/Local/Programs/MiKTeX 2.9/tex/latex/microtype/mt-c
+mr.cfg"
 File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman (
 RS)
 )
-luaotfload | load : Lookup/name: "TimesNewRoman" -> "timesbd.ttf"
-luaotfload | load : Lookup/name: "TimesNewRoman" -> "timesbd.ttf"
-luaotfload | load : Lookup/name: "TimesNewRoman" -> "timesbd.ttf"
 luaotfload | load : Lookup/name: "TimesNewRoman" -> "times.ttf"
+luaotfload | load : Lookup/name: "TimesNewRoman" -> "timesbd.ttf"
+luaotfload | load : Lookup/name: "TimesNewRoman" -> "timesbd.ttf"
+luaotfload | load : Lookup/name: "TimesNewRoman" -> "timesbd.ttf"
+
+LaTeX Font Warning: Font shape `EU2/TimesNewRoman(0)/m/sc' undefined
+(Font)              using `EU2/TimesNewRoman(0)/m/n' instead on input line 40.
+
+luaotfload | load : Lookup/name: "TimesNewRoman" -> "timesbd.ttf"
 Package microtype Info: Loading generic settings for font family
 (microtype)             `TimesNewRoman' (encoding: EU2).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
-luaotfload | load : Lookup/name: "TimesNewRoman" -> "timesbd.ttf"
-Underfull \hbox (badness 10000) in paragraph at lines 45--49
+luaotfload | load : Lookup/name: "TimesNewRoman" -> "times.ttf" [1
 
- []
+{C:/Users/iasrluser/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
+(./McDowell_CV_Template.aux)
 
-[1
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-{C:/Users/Saif/Desktop/software/miktex/pdftex/config/pdftex.map}]
-(./saiful-abu.aux))
+)
 
 Here is how much of LuaTeX's memory you used:
- 18789 strings out of 494933
+ 17905 strings out of 495015
  125171,460012 words of node,token memory allocated
- 378 words of node memory still in use:
+ 382 words of node memory still in use:
     nodes
-   avail lists: 2:751,3:239,4:1568,5:90,6:2939,7:69,9:261,10:286,11:1
- 22067 multiletter control sequences out of 65536+200000
- 47 fonts using 8050843 bytes
- 55i,15n,68p,775b,522s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Windows/Fonts/timesbd.ttf><C:/Windows/Fonts/timesbd.ttf><C:/Windows/Fonts/ti
-mes.ttf>
-Output written on saiful-abu.pdf (1 page, 106045 bytes).
+   avail lists: 2:639,3:206,4:1436,5:102,6:2758,7:68,9:248,10:272,11:1
+ 21110 multiletter control sequences out of 65536+200000
+ 44 fonts using 8139759 bytes
+ 57i,15n,67p,785b,544s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Windows/Fonts/timesbd.ttf><C:/Windows/Fonts/times.ttf>
+Output written on McDowell_CV_Template.pdf (1 page, 78838 bytes).
 
-PDF statistics: 27 PDF objects out of 1000 (max. 8388607)
+PDF statistics: 20 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 131072)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

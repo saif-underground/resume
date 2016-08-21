@@ -1,7 +1,7 @@
-This is LuaTeX, Version beta-0.80.0 (MiKTeX 2.9) (rev 5238)  (format=lualatex 2016.3.13)  11 AUG 2016 17:28
+This is LuaTeX, Version beta-0.80.0 (MiKTeX 2.9) (rev 5238)  (format=lualatex 2016.3.13)  30 JUN 2016 19:23
  restricted \write18 enabled.
-**saiful-abu.tex
-(./saiful-abu.tex
+**saiful-abu-work-first.tex
+(./saiful-abu-work-first.tex
 LaTeX2e <2015/10/01> patch level 2
 Babel <3.9n> and hyphenation patterns for 69 languages loaded.
 (./mcdowellcv.cls
@@ -210,7 +210,7 @@ Inserting `luaotfload.aux.set_capheight' at position 3 in `luaotfload.patch_font
 '.
 Inserting `luaotfload.rewrite_fontname' at position 4 in `luaotfload.patch_font'
 .
-luaotfload | main : initialization completed in 0.503 seconds)
+luaotfload | main : initialization completed in 0.850 seconds)
 Lua module: fontspec 2013/05/20 2.3c Advanced font selection for LuaLaTeX.
 \l_fontspec_script_int=\count118
 \l_fontspec_language_int=\count119
@@ -734,9 +734,9 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
 LaTeX Info: Redefining \[ on input line 2665.
 LaTeX Info: Redefining \] on input line 2666.
 )
-(./saiful-abu.aux)
-\openout1 = saiful-abu.aux
+No file saiful-abu-work-first.aux.
 
+\openout1 = saiful-abu-work-first.aux
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 34.
 LaTeX Font Info:    ... okay on input line 34.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 34.
@@ -753,7 +753,6 @@ LaTeX Font Info:    Checking defaults for EU2/lmr/m/n on input line 34.
 LaTeX Font Info:    ... okay on input line 34.
 LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 34.
 LaTeX Font Info:    Try loading font information for T3+cmr on input line 34.
-
 (C:/Users/Saif/Desktop/software/miktex/tex/latex/tipa/t3cmr.fd
 File: t3cmr.fd 2001/12/31 TIPA font definitions
 )
@@ -896,27 +895,23 @@ Package microtype Info: Loading generic settings for font family
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 luaotfload | load : Lookup/name: "TimesNewRoman" -> "timesbd.ttf"
-Underfull \hbox (badness 10000) in paragraph at lines 45--49
-
- []
-
 [1
 
 {C:/Users/Saif/Desktop/software/miktex/pdftex/config/pdftex.map}]
-(./saiful-abu.aux))
+(./saiful-abu-work-first.aux))
 
 Here is how much of LuaTeX's memory you used:
- 18789 strings out of 494933
+ 18784 strings out of 494933
  125171,460012 words of node,token memory allocated
- 378 words of node memory still in use:
+ 380 words of node memory still in use:
     nodes
-   avail lists: 2:751,3:239,4:1568,5:90,6:2939,7:69,9:261,10:286,11:1
+   avail lists: 2:591,3:194,4:1485,5:110,6:3959,7:54,9:210,10:421,11:1
  22067 multiletter control sequences out of 65536+200000
  47 fonts using 8050843 bytes
- 55i,15n,68p,775b,522s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 55i,15n,68p,786b,522s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Windows/Fonts/timesbd.ttf><C:/Windows/Fonts/timesbd.ttf><C:/Windows/Fonts/ti
 mes.ttf>
-Output written on saiful-abu.pdf (1 page, 106045 bytes).
+Output written on saiful-abu-work-first.pdf (1 page, 106122 bytes).
 
 PDF statistics: 27 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 131072)
