@@ -1,4 +1,4 @@
-This is LuaTeX, Version beta-0.80.0 (MiKTeX 2.9) (rev 5238)  (format=lualatex 2016.3.13)  31 OCT 2017 03:12
+This is LuaTeX, Version beta-0.80.0 (MiKTeX 2.9) (rev 5238)  (format=lualatex 2016.3.13)  31 OCT 2017 12:13
  restricted \write18 enabled.
 **saiful-abu.tex
 (./saiful-abu.tex
@@ -210,7 +210,7 @@ Inserting `luaotfload.aux.set_capheight' at position 3 in `luaotfload.patch_font
 '.
 Inserting `luaotfload.rewrite_fontname' at position 4 in `luaotfload.patch_font'
 .
-luaotfload | main : initialization completed in 0.560 seconds)
+luaotfload | main : initialization completed in 0.527 seconds)
 Lua module: fontspec 2013/05/20 2.3c Advanced font selection for LuaLaTeX.
 \l_fontspec_script_int=\count118
 \l_fontspec_language_int=\count119
@@ -896,16 +896,16 @@ Package microtype Info: Loading generic settings for font family
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 luaotfload | load : Lookup/name: "TimesNewRoman" -> "timesbd.ttf"
-Overfull \hbox (30.77696pt too wide) in paragraph at lines 81--82
+Overfull \hbox (59.96986pt too wide) in paragraph at lines 81--82
 [][]\EU2/TimesNewRoman(0)/bx/n/10.95 Neu-ral Net-work \EU2/TimesNewRoman(0)/m/n
-/10.95 Im-ple-mented a neu-ral net-work from the scratch for digit recog-ni-tio
-n. Python. https://github.com/sai-
+/10.95 (2017)Im-ple-mented a neu-ral net-work from the scratch for digit recog-
+ni-tion. Python. https://github.com/sai-
  []
 
 
-Overfull \hbox (10.12154pt too wide) in paragraph at lines 82--83
+Overfull \hbox (11.67207pt too wide) in paragraph at lines 82--83
 [][]\EU2/TimesNewRoman(0)/bx/n/10.95 Enigma Sim-u-la-tor \EU2/TimesNewRoman(0)/
-m/n/10.95 (2016). De-vel-oped world war 2 cryp-to-graphic de-vice sim-u-la-tor.
+m/n/10.95 (2016). De-vel-oped world War 2 cryp-to-graphic de-vice sim-u-la-tor.
  Java. https://github.com/sai-
  []
 
@@ -919,13 +919,13 @@ Here is how much of LuaTeX's memory you used:
  125171,460012 words of node,token memory allocated
  377 words of node memory still in use:
     nodes
-   avail lists: 2:603,3:194,4:1326,5:85,6:2993,7:51,9:198,10:281,11:1
+   avail lists: 2:603,3:194,4:1347,5:86,6:3080,7:51,9:198,10:289,11:1
  22067 multiletter control sequences out of 65536+200000
  47 fonts using 8050843 bytes
  55i,15n,68p,775b,522s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Windows/Fonts/timesbd.ttf><C:/Windows/Fonts/timesbd.ttf><C:/Windows/Fonts/ti
 mes.ttf>
-Output written on saiful-abu.pdf (1 page, 105056 bytes).
+Output written on saiful-abu.pdf (1 page, 106120 bytes).
 
 PDF statistics: 27 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 131072)
